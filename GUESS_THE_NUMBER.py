@@ -79,5 +79,3 @@ init()
 # start frame
 f.start()
 # always remember to check your completed program against the grading rubric
-
-
