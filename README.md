@@ -29,6 +29,10 @@ Week  Topics	Mini-project
 
 0	Expressions, variables and assignments	 "We want... a shrubbery!"
 
+My code:
+
+A template for your mini-project: 
+
 *****
 *****
 
@@ -85,10 +89,6 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-memory_t
 A template for your mini-project: http://www.codeskulptor.org/#examples-memory_states.py
 
 https://class.coursera.org/interactivepython-002/human_grading/view/courses/970391/assessments/32/submissions
-
-My code:
-
-A template for your mini-project: 
 
 *****
 *****
