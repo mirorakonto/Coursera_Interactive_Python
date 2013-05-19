@@ -67,7 +67,7 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-pong_tem
 
 5	Mouse input, more lists, dictionaries, images	"Memory" game
 
-http://www.codeskulptor.org/#examples-memory_template.py
+A template for your mini-project: http://www.codeskulptor.org/#examples-memory_template.py
 
 
 
