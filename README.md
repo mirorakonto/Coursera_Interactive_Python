@@ -45,7 +45,7 @@ A testing template for your mini-project: http://www.codeskulptor.org/#examples-
 
 3	The canvas, static drawing, timers, interactive drawing	Stopwatch: The Game
 
-http://www.codeskulptor.org/#user12_zmUQiKHky9I8F6K.py
+My code: http://www.codeskulptor.org/#user12_zmUQiKHky9I8F6K.py
 
 http://www.codeskulptor.org/#examples-format_template.py
 
