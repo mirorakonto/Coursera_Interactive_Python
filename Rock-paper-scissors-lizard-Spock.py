@@ -60,7 +60,7 @@ def rpsls(name):
     player_number = name_to_number(name) 
 
     # computes random guess for comp_number using random.randrange()
-    comp_number = random.randrange(0,5)
+    comp_number = random.randrange(0, 5)
 
     # computes difference of player_number and comp_number modulo five
     diff = (player_number - comp_number) % 5
