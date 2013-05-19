@@ -60,6 +60,11 @@ http://www.codeskulptor.org/#user12_lS4l5Lu47RVOqcP.py
 
 4	Lists, keyboard input, motion, positional/velocity control	"Pong" game
 
+A template for your mini-project: http://www.codeskulptor.org/#examples-pong_template.py
+
+
+
+
 5	Mouse input, more lists, dictionaries, images	"Memory" game
 
 6	Classes, tiled images	"Blackjack" game
