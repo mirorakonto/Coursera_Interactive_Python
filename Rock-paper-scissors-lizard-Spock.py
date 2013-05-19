@@ -87,8 +87,8 @@ def rpsls(name):
        
     # prints results
     print ""
-    print "Player chooses",number_to_name(player_number)
-    print "Computer chooses",computer_chooses_name 
+    print "Player chooses", number_to_name(player_number)
+    print "Computer chooses", computer_chooses_name 
     if diff > 0:   
         print winner, "wins!"
     elif diff == 0:
