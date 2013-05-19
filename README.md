@@ -25,17 +25,19 @@ Week  Topics	Mini-project
 
 1	Functions, logic, conditionals	"Rock-Paper-Scissors-Lizard-Spock" game
 
-http://www.codeskulptor.org/#user10_D3FlPcXz81gdEBI.py
+My code: http://www.codeskulptor.org/#user10_D3FlPcXz81gdEBI.py
+
+A template for your mini-project: http://www.codeskulptor.org/#examples-rpsls_template.py
 
 
 
 2	Event-driven programming, local and global variables, buttons and input fields	"Guess the Number" game
 
-http://www.codeskulptor.org/#user11_Gg2WnlLmR8Gqc0M.py
+My code: http://www.codeskulptor.org/#user11_Gg2WnlLmR8Gqc0M.py
 
-http://www.codeskulptor.org/#examples-guess_the_number_template.py
+A template for your mini-project: http://www.codeskulptor.org/#examples-guess_the_number_template.py
 
-http://www.codeskulptor.org/#examples-gtn_testing_template.py
+A testing template for your mini-project: http://www.codeskulptor.org/#examples-gtn_testing_template.py
 
 
 
