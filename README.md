@@ -17,11 +17,20 @@ https://class.coursera.org/interactivepython-002/quiz/index
 Miniprojects
 https://class.coursera.org/interactivepython-002/human_grading/index
 
+*****
+*****
+*****
 
 PRACTICE AND HELP
 
 Week  Topics	Mini-project
+
+*****
+
 0	Expressions, variables and assignments	 "We want... a shrubbery!"
+
+*****
+*****
 
 1	Functions, logic, conditionals	"Rock-Paper-Scissors-Lizard-Spock" game
 
@@ -29,8 +38,8 @@ My code: http://www.codeskulptor.org/#user10_D3FlPcXz81gdEBI.py
 
 A template for your mini-project: http://www.codeskulptor.org/#examples-rpsls_template.py
 
-
-
+*****
+*****
 
 2	Event-driven programming, local and global variables, buttons and input fields	"Guess the Number" game
 
@@ -40,8 +49,8 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-guess_th
 
 A testing template for your mini-project: http://www.codeskulptor.org/#examples-gtn_testing_template.py
 
-
-
+*****
+*****
 
 3	The canvas, static drawing, timers, interactive drawing	Stopwatch: The Game
 
@@ -55,31 +64,61 @@ http://www.codeskulptor.org/#examples-format_template.py
 
 http://www.codeskulptor.org/#user12_lS4l5Lu47RVOqcP.py
 
-
-
+*****
+*****
 
 4	Lists, keyboard input, motion, positional/velocity control	"Pong" game
 
+My code:
+
 A template for your mini-project: http://www.codeskulptor.org/#examples-pong_template.py
 
-
-
+*****
+*****
 
 5	Mouse input, more lists, dictionaries, images	"Memory" game
 
+My code:
+
 A template for your mini-project: http://www.codeskulptor.org/#examples-memory_template.py
 
-http://www.codeskulptor.org/#examples-memory_states.py
+A template for your mini-project: http://www.codeskulptor.org/#examples-memory_states.py
 
 https://class.coursera.org/interactivepython-002/human_grading/view/courses/970391/assessments/32/submissions
 
+My code:
 
+A template for your mini-project: 
+
+*****
+*****
 
 6	Classes, tiled images	"Blackjack" game
 
+My code:
+
+A template for your mini-project: 
+
+*****
+*****
+
 7	Acceleration and friction, spaceship class, sprite class, sound	Spaceship from "RiceRocks" game
 
+My code:
+
+A template for your mini-project: 
+
+*****
+*****
+
 8	Sets, groups of sprites, collisions, sprite animation	Full "RiceRocks" game
+
+My code:
+
+A template for your mini-project: 
+
+*****
+*****
 
 Discussion forums
 https://class.coursera.org/interactivepython-002/forum/index
