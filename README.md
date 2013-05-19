@@ -67,6 +67,11 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-pong_tem
 
 5	Mouse input, more lists, dictionaries, images	"Memory" game
 
+http://www.codeskulptor.org/#examples-memory_template.py
+
+
+
+
 6	Classes, tiled images	"Blackjack" game
 
 7	Acceleration and friction, spaceship class, sprite class, sound	Spaceship from "RiceRocks" game
