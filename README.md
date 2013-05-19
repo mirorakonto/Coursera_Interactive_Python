@@ -47,6 +47,10 @@ A testing template for your mini-project: http://www.codeskulptor.org/#examples-
 
 My code: http://www.codeskulptor.org/#user12_zmUQiKHky9I8F6K.py
 
+A template for your mini-project: http://www.codeskulptor.org/#examples-stopwatch_template.py
+
+Testing templates for your mini-project: 
+
 http://www.codeskulptor.org/#examples-format_template.py
 
 http://www.codeskulptor.org/#user12_lS4l5Lu47RVOqcP.py
