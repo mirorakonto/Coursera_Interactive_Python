@@ -71,6 +71,7 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-memory_t
 
 http://www.codeskulptor.org/#examples-memory_states.py
 
+https://class.coursera.org/interactivepython-002/human_grading/view/courses/970391/assessments/32/submissions
 
 
 
