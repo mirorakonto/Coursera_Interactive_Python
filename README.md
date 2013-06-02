@@ -90,9 +90,9 @@ My code:
 
 TESTING TEMPLATES:
 
-A template for your mini-project: http://www.codeskulptor.org/#examples-memory_template.py
+a) Implementation of card game - Memory: http://www.codeskulptor.org/#examples-memory_template.py
 
-A template for your mini-project: http://www.codeskulptor.org/#examples-memory_states.py
+b) Simple state example for Memory: http://www.codeskulptor.org/#examples-memory_states.py
 
 https://class.coursera.org/interactivepython-002/human_grading/view/courses/970391/assessments/32/submissions
 
