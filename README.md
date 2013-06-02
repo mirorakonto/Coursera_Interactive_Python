@@ -146,7 +146,7 @@ My code:
 
 TESTING TEMPLATES:
 
-A template for your mini-project: 
+Program template for Spaceship: http://www.codeskulptor.org/#examples-spaceship_template.py
 
 *****
 *****
