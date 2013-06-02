@@ -47,7 +47,11 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-rpsls_te
 
 2	Event-driven programming, local and global variables, buttons and input fields	"Guess the Number" game
 
+
 My code: http://www.codeskulptor.org/#user11_Gg2WnlLmR8Gqc0M.py
+
+
+TEMPLATES:
 
 A template for your mini-project: http://www.codeskulptor.org/#examples-guess_the_number_template.py
 
@@ -84,6 +88,8 @@ A template for your mini-project: http://www.codeskulptor.org/#examples-pong_tem
 
 My code:
 
+TESTING TEMPLATES:
+
 A template for your mini-project: http://www.codeskulptor.org/#examples-memory_template.py
 
 A template for your mini-project: http://www.codeskulptor.org/#examples-memory_states.py
@@ -95,16 +101,34 @@ https://class.coursera.org/interactivepython-002/human_grading/view/courses/9703
 
 6	Classes, tiled images	"Blackjack" game
 
+
 My code:
 
-A template for your mini-project: 
+
+TESTING TEMPLATES:
+
+a) A template for this mini-project and review the class definition for the Card class: 
+http://www.codeskulptor.org/#examples-blackjack_template.py
+
+b) Testing template for the Hand class:
+http://www.codeskulptor.org/#examples-hand_template.py
+
+c) Testing template for the Deck class:
+http://www.codeskulptor.org/#examples-deck_template.py
+
+d) Testing template for the get_value method for Hands
+http://www.codeskulptor.org/#examples-getvalue_template.py
 
 *****
 *****
 
 7	Acceleration and friction, spaceship class, sprite class, sound	Spaceship from "RiceRocks" game
 
+
 My code:
+
+
+TESTING TEMPLATES:
 
 A template for your mini-project: 
 
@@ -113,7 +137,11 @@ A template for your mini-project:
 
 8	Sets, groups of sprites, collisions, sprite animation	Full "RiceRocks" game
 
+
 My code:
+
+
+TESTING TEMPLATES:
 
 A template for your mini-project: 
 
