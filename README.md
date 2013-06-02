@@ -107,17 +107,21 @@ My code:
 
 TESTING TEMPLATES:
 
-a) A template for this mini-project and review the class definition for the Card class: 
-http://www.codeskulptor.org/#examples-blackjack_template.py
+a) A template for this mini-project and review the class definition for the Card class:
+
+    http://www.codeskulptor.org/#examples-blackjack_template.py
 
 b) Testing template for the Hand class:
-http://www.codeskulptor.org/#examples-hand_template.py
+
+    http://www.codeskulptor.org/#examples-hand_template.py
 
 c) Testing template for the Deck class:
-http://www.codeskulptor.org/#examples-deck_template.py
+
+    http://www.codeskulptor.org/#examples-deck_template.py
 
 d) Testing template for the get_value method for Hands
-http://www.codeskulptor.org/#examples-getvalue_template.py
+
+    http://www.codeskulptor.org/#examples-getvalue_template.py
 
 *****
 *****
