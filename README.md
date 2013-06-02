@@ -111,6 +111,16 @@ a) A template for this mini-project and review the class definition for the Card
 
 http://www.codeskulptor.org/#examples-blackjack_template.py
 
+()()()()()()()()()()
+
+    For help in implementing the __str__ method for hands, refer back to practice exercise number four from last week.
+
+  https://class.coursera.org/interactivepython-002/wiki/view?page=practice_mouse
+
+  http://www.codeskulptor.org/#exercises_mouse_join_solution.py
+
+()()()()()()()()()()
+  
 b) Testing template for the Hand class:
 
 http://www.codeskulptor.org/#examples-hand_template.py
@@ -122,6 +132,8 @@ http://www.codeskulptor.org/#examples-deck_template.py
 d) Testing template for the get_value method for Hands
 
 http://www.codeskulptor.org/#examples-getvalue_template.py
+
+
 
 *****
 *****
