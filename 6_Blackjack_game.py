@@ -1,0 +1,1 @@
+Mini-project description - Blackjack
