@@ -101,7 +101,8 @@ class Ship:
         
     def draw(self,canvas):
         canvas.draw_circle(self.pos, self.radius, 1, "White", "White")
-
+        canvas.draw_image(self.image, self.image_center, self.image_size, self.pos, self.image_size, self.angle)
+        
     def update(self):
         pass
     
@@ -126,6 +127,7 @@ class Sprite:
    
     def draw(self, canvas):
         canvas.draw_circle(self.pos, self.radius, 1, "Red", "Red")
+        canvas.draw_image(self.image, self.image_center, self.image_size, self.pos, self.image_size, self.angle)
     
     def update(self):
         pass        
